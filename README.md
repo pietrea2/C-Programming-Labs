@@ -38,6 +38,9 @@ Included here are completed Labs 1-9 and tutorial/practice code in TUT1-6.
 [**Lab 4**](https://github.com/pietrea2/C-Programming---UofT-1st-Year/tree/main/Lab%204)
 + **Part 1: Triangle Printer**
   + Program prints triangle with amount of rows given by user
+ 
+![Printed Triangle](/images/lab4_p1.png)
+
 + **Part 2: Binary to Decimal & Decimal to Binary Converter**
   + Input a decimal/binary number and receive its binary/decimal representation
  
@@ -50,3 +53,5 @@ Included here are completed Labs 1-9 and tutorial/practice code in TUT1-6.
 
 [**Lab 6**](https://github.com/pietrea2/C-Programming---UofT-1st-Year/tree/main/Lab%206)
 + **Reversi Game** - Board Configuration and Move Legality Checking
+
+![Reversi Board Game](/images/reversi-board.jpg)
