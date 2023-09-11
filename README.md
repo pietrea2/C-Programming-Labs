@@ -24,6 +24,10 @@ Included here are completed Labs 1-9 and tutorial/practice code in TUT1-6.
 + There are 2 versions of this project:
   + Using arrays to store the colours of the resistor bands
   + _Not_ using arrays
+ 
+    
+![Resistor Band Image](https://learn.parallax.com/sites/default/files/content/Python/breadboard/png/resistor-color-codes.png)
+
 
 [**Lab 3**](https://github.com/pietrea2/C-Programming---UofT-1st-Year/tree/main/Lab%203)
 + **Part 1**: Coin Calculator
@@ -40,3 +44,5 @@ Included here are completed Labs 1-9 and tutorial/practice code in TUT1-6.
 [**Lab 5**](https://github.com/pietrea2/C-Programming---UofT-1st-Year/tree/main/Lab%205)
 + Bernoulli's Triangle Printer
   + User inputs number of rows of the triangle to be printed
+    
+  ![Bernoulli/Pascal's Triangle](https://cdn.mos.cms.futurecdn.net/LH5vimYVrei3iDU2sgDM2G-320-80.jpg)
