@@ -39,7 +39,7 @@ Included here are completed Labs 1-9 and tutorial/practice code in TUT1-6.
 + **Part 1: Triangle Printer**
   + Program prints triangle with amount of rows given by user
  
-![Printed Triangle](/images/lab4_p1.png)
+![Printed Triangle](images/lab4_p1_triangle.png)
 
 + **Part 2: Binary to Decimal & Decimal to Binary Converter**
   + Input a decimal/binary number and receive its binary/decimal representation
@@ -55,3 +55,7 @@ Included here are completed Labs 1-9 and tutorial/practice code in TUT1-6.
 + **Reversi Game** - Board Configuration and Move Legality Checking
 
 ![Reversi Board Game](/images/reversi-board.jpg)
+
+
+![Starting Board Layout](images/reversi-start-board-pic.png)
+![Code Starting Board](images/printed-reversi-board.png)
