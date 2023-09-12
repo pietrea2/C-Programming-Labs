@@ -40,4 +40,11 @@ The game objective: to place your coloured pieces around your opponents in order
   + End of program
  
 
+Other sample output:
+
+![Reversi Game Part 1](/../main/images/lab6_sample_game_1.png)
+
+![Reversi Game Part 2](/../main/images/lab6_sample_game_2.png)
+ 
+
     
