@@ -2,6 +2,8 @@
 
 This project is a continuation of the Lab 6 Reversi Game. Now there is a **computer algorithm** that the user plays against in a full game.
 
+![Reversi Board](/../main/images/reversi-board-mini.png)
+
 ## Computer Algorithm
 The computer program makes its moves following these rules:
 + It will make a move that results in the highest score (highest number of pieces gained)
