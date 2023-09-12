@@ -64,13 +64,29 @@ Included here are completed Labs 1-9 and tutorial/practice code in TUT1-6.
 ## [**Lab 7**](https://github.com/pietrea2/C-Programming---UofT-1st-Year/tree/main/Lab%207)
 + **Reversi Game Part 2** - Playing Game Against Computer Program
 
+  + The computer algorithm plays moves that result in the most points that turn (most pieces flipped to its colour)
+  + User plays game until there is a winner, or until user plays invalid move
+
 ## [**Lab 8**](https://github.com/pietrea2/C-Programming---UofT-1st-Year/tree/main/Lab%208)
 + **Personal Music Library**
-  + Using Linked Lists
-  + Memory Allocation
-  + Pointers
+
+  + User can create a music library of songs that is organized in a **Linked List**
+  + Songs are sorted in alphabetical order by song name
+  + **User Inputs/Commands**
+    +  **I  : Insert** song into the library (provide song name, artist and genre)
+    +  **P  : Print** the music library to show all songs
+    +  **S  : Search** song my song name, it will be printed a long with its artist and genre
+    +  **D  : Delete** song from library
+    +  **Q  : Quit** from the program. All songs will be deleted and program ends
+
 
 ## [**Lab 9**](https://github.com/pietrea2/C-Programming---UofT-1st-Year/tree/main/Lab%209)
 + **Personal Music Library** with Sorting Algorithm
-  + Music library is maintained with arrays
+
+  + Music library is maintained with **array of structs**
   + Sort library by artist name using **Cocktail Sort** algorithm
+  + **User Inputs/Commands**
+    +  **I  : Insert** song into the library (provide song name, artist and genre)
+    +  **P  : Print** the music library to show all songs
+    +  **S  : Sort** the song library using **Cocktail Sort** in alphabetical order by artist, breaking ties using song names 
+    +  **Q  : Quit** from the program. All songs will be deleted and program ends
