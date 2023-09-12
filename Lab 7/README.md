@@ -26,4 +26,10 @@ The computer program makes its moves following these rules:
  
 ## Example Game Output:
 
-  ![]()
+  ![Gameplay part 1](/../main/images/lab7_p1.png)
+
+  ![Gameplay part 2](/../main/images/lab7_p2.png)
+
+  ![Gameplay part 3](/../main/images/lab7_p3.png)
+
+  ![Gameplay part 4](/../main/images/lab7_p4.png)
