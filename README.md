@@ -59,3 +59,18 @@ Included here are completed Labs 1-9 and tutorial/practice code in TUT1-6.
 
 ![Starting Board Layout](images/reversi-start-board-pic.png)
 ![Code Starting Board](images/printed-reversi-board.png)
+
+
+[**Lab 7**](https://github.com/pietrea2/C-Programming---UofT-1st-Year/tree/main/Lab%207)
++ **Reversi Game Part 2** - Playing Game Against Computer Program
+
+[**Lab 8**](https://github.com/pietrea2/C-Programming---UofT-1st-Year/tree/main/Lab%208)
++ **Personal Music Library**
+  + Using Linked Lists
+  + Memory Allocation
+  + Pointers
+
+[**Lab 9**](https://github.com/pietrea2/C-Programming---UofT-1st-Year/tree/main/Lab%209)
++ **Personal Music Library** with Sorting Algorithm
+  + Music library is maintained with arrays
+  + Sort library by artist name using **Cocktail Sort** algorithm
