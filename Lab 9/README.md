@@ -21,3 +21,9 @@ typedef struct song {
 +  **Q  : Quit** from the program. All songs will be deleted and program ends
 
 ## Example Program Output
+
+![Lab 9 output part 1](/../main/images/lab9_p1.png)
+
+![Lab 9 output part 2](/../main/images/lab9_p2.png)
+
+![Lab 9 output part 3](/../main/images/lab9_p3.png)
