@@ -10,6 +10,7 @@ bool checkIfAvailableSpot(char array[][26], char colour, int n, char row, char c
 void FLIP_colours( char array[][26], int dimension, char row, char col, char colour, int deltaRow, int deltaCol);
 
 
+//Additional functions for computer algorithm to play
 bool colourHasAvailableMoves(char array[][26], int dimension, char colour);
 char oppositeColour(char colour);
 void computerPlaysItsTurn(char array[][26], int dimension, char colour);
@@ -96,7 +97,7 @@ int main(void) {
 }
 
 
-
+//checks if the player or computer algorithm has a chance to play a turn
 bool colourHasAvailableMoves(char array[][26], int dimension, char colour){
         
     for(int boardRow = 0; boardRow < dimension; boardRow++){
@@ -123,7 +124,8 @@ char oppositeColour(char colour){
 }
 
 
-
+//computer algorithm: finds best move to play
+//according to what move scores the most points on the board
 void computerPlaysItsTurn(char array[][26], int dimension, char colour) {
         
     char bestMoveRow, bestMoveColumn;
