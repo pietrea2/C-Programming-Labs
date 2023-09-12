@@ -31,4 +31,10 @@ typedef struct node {
 
 ## Example Program Output
 
-![]()
+![Lab 8 output part 1](/../main/images/lab8_p1.png)
+
+![Lab 8 output part 2](/../main/images/lab8_p2.png)
+
+![Lab 8 output part 3](/../main/images/lab8_p3.png)
+
+![Lab 8 output part 4](/../main/images/lab8_p4.png)
