@@ -6,11 +6,14 @@ This program prompts the user to input the **1st, 2nd, multiplier and tolerance 
 
 The total resistive value is finally calculated and shown to the user.
 
++ **Input:** 4 colours of the bands on the resistor
++ **Output:** Total resistance (Ohms) + tolerance (% Ohms)
+
 There are 2 versions of this project:
 + Using arrays to store the colours of the resistor bands
 + Not using arrays
 
-![Resistor Band Chart](/../main/images/Resistor-Code-Chart.png)
+![Resistor Band Chart](/../main/images/4-band-resistor.png)
 
 ![User Input Chart](/../main/images/resistor-color-inputs.png)
 
