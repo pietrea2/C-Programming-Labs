@@ -1,5 +1,5 @@
-# C-Programming: UofT 1st Year
-C programming labs/projects/practice from 1st Year at UofT Computer Eng.
+# C-Programming:
+C programming labs/projects/practice from Computer Engineering University
 Beginner to Advanced:
 + Input / Output
 + Flow Control
